@@ -14,7 +14,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Archaeodash</h5>
                         <p class="card-text">Application for the analysis of elemental data</p>
-                        <a href="/shiny/Archaeodash/" class="btn btn-primary">Go to Archaeodash</a>
+                        <a href="/app/Archaeodash/" class="btn btn-primary">Go to Archaeodash</a>
                     </div>
                 </div>
             </div>
@@ -24,7 +24,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Archaeodash Beta</h5>
                         <p class="card-text">Beta version of Archaeodash app</p>
-                        <a href="/shiny/Archaeodashbeta/" class="btn btn-primary">Go to Archaeodash Beta</a>
+                        <a href="/app/Archaeodashbeta/" class="btn btn-primary">Go to Archaeodash Beta</a>
                     </div>
                 </div>
             </div>
@@ -35,7 +35,7 @@
                         <h5 class="card-title">Shiny Data Entry</h5>
                         <p class="card-text">Application for data entry using a shiny app. Typically used for
                             cataloguing.</p>
-                        <a href="/ca" class="btn btn-primary">Go to Shiny Data Entry</a>
+                        <a href="/app/ShinyDataEntry/" class="btn btn-primary">Go to Shiny Data Entry</a>
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Boxes</h5>
                         <p class="card-text">Application used for updating box locations in Collective Access.</p>
-                        <a href="/shiny/boxes/" class="btn btn-primary">Go to Boxes</a>
+                        <a href="/app/boxes/" class="btn btn-primary">Go to Boxes</a>
                     </div>
                 </div>
             </div>

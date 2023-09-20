@@ -7,6 +7,7 @@
 
 <body>
       <!--#include virtual="navbar.html" -->
+      <p>Today is <!--#echo var="DATE_LOCAL" --></p>
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-6 mb-4">

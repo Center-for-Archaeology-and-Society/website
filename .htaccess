@@ -1,2 +1,3 @@
 Options +Includes
 AddHandler server-parsed .html
+XBitHack on

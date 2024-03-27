@@ -12,9 +12,9 @@
             <div class="col-md-6 mb-4">
                 <div class="card">
                     <div class="card-body">
-                        <h5 class="card-title">Collective Access</h5>
+                        <h5 class="card-title">CAS Database</h5>
                         <p class="card-text">Database for the Center for Archaeology and Society Repository</p>
-                        <a href="/ca" class="btn btn-primary">Go to Collective Access</a>
+                        <a href="/heurist/?db=admin_CAS" class="btn btn-primary">Go to database</a>
                     </div>
                 </div>
             </div>
